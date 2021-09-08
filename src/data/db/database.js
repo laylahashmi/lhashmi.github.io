@@ -105,6 +105,14 @@ const database = {
     },
     {
       id: 2,
+      title: "Abubakar Khan - portfolio site",
+      subtitle: "This portfolio site aims to showcase my client's film production and keynote speaking career. The website was built from scratch and is built using NextJS with custom CSS animations and a nodejs back end that serves as a content management system. Once theis project was shipped, the client has the flexibility to login to their portal and change content as his business grows.",
+      imageUrl: "/images/ak-giphy.gif",
+      // largeImageUrl: ["/images/printpoint.gif"],
+      url: 'https://www.abubakar-khan.com/'
+    },
+    {
+      id: 3,
       title: "Project Warpdrive",
       subtitle: "This is a Kanban project management web application inspired by Trello board. This web application is build using React + Node + Express + MongoDB (MERN Stack). It utilizes websockets to chat with teamates on projects in real time.",
       imageUrl: "/images/warpdrive.gif",
@@ -115,14 +123,14 @@ const database = {
       url: 'http://34.219.53.126/'
     },
     {
-      id: 3,
+      id: 4,
       title: "Trading bot",
       subtitle: "This a trading bot built using nodejs, expressjs web3js to communiate with the ethereum virual machine. This was accomplished without running a local ethereum instance. The server connects to a remote ethereum RPC instance which is hosted at infura. The Bot listens to price changes for given crypto currency pair at two decentralized exchanges.",
       imageUrl: "/images/blockchain.jpg",
       url: 'https://github.com/subaiyalShk/crypto_pricebot'
     },
     {
-      id: 4,
+      id: 5,
       title: "Door Hopper",
       subtitle: " A cross platform mobile application for door to door sales. The aim of this project was to provide a platform where door to door sales reps can log, schedule presentation and keep track of their performance. This project was built using Flutter to ship IOS and Android apps utilizing NoSQL and firebase for the backend",
       imageUrl: "/images/flutterchat.jpg",
@@ -130,7 +138,7 @@ const database = {
       url: 'https://github.com/subaiyalShk/door_hopper'
     },
     {
-      id: 5,
+      id: 6,
       title: "Blog site- Mahin Tariq",
       subtitle: "This is a simple blog site built to show case client's professional work. Built using Material Ui and all art work is original, designed by closely working with the client.",
       imageUrl: "/images/mahintariq.gif",
@@ -138,7 +146,7 @@ const database = {
       url: 'http://mahintariq.com/'
     },
     {
-      id: 6,
+      id: 7,
       title: "UIWC- United Immigrant Womens Counsil",
       subtitle: "This project is built using Django Rest-framework for backend and ReactJS for Front End. United Immigrant Womens Counsil is a non-profit organization based in Dallas, TX that is helping immigrant women in the USA integrate into society smoothly, provide job opportunites and create a mentor-mentee network of professionals.",
       imageUrl: "/images/uiwc.gif",
